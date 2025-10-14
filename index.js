@@ -20,7 +20,7 @@ http.createServer((req, res) => {
             <h2>Goldsmiths Cybersecurity Student</h2>
         </header>
         <main>
-          <p>Hello! I’m John, a final year cybersecurity student at Goldsmiths and the President of the Christian Union.</p>
+          <p>Hello I am a final year cybersecurity student and President of the Christian Union at Goldsmiths Univeristy of London</p>
           <p>In my free time, I love playing basketball, In my second year, I played for the Goldsmiths Basketball Team</p>
         </main>
     </body>
